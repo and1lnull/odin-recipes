@@ -1,0 +1,55 @@
+* {
+    margin: 0.83em;
+    background-color: beige;
+}
+
+.main-heading {
+   font-family: Helvetica,sans-serif;
+   font-size: 75px;
+   font-weight: 700;
+   text-align: center;
+}
+
+
+.link {
+    font-family: Helvetica,sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+a:link {
+    color: green;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+  .img-link {
+    width: 700px;
+  }
+
+  .second-heading {
+    font-family: Helvetica,sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .paragraph {
+    font-family: Helvetica,sans-serif;
+    font-size: 18px;
+    text-align: left;
+  }
